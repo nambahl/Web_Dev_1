@@ -60,7 +60,7 @@ p{
 .trim{
   overflow:hidden;
 }
-@media (max-width: 770px) {
+@media (max-width: 900px) {
   .iphoneimage{
     position:static;
     transform: rotate(0);
